@@ -6,8 +6,9 @@
 @import './base/_normalize.scss';
 @import './base/_reset.scss';
 
-@import './mixins/text-style';
-@import './mixins/responsive';
-@import './mixins/positions';
+@import './mixins/_flexbox.scss';
+@import './mixins/_positions.scss';
+@import './mixins/_responsive.scss';
+@import './mixins/_text-style.scss';
 
 @import './layouts/grids';
