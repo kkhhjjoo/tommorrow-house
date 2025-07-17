@@ -1,3 +1,5 @@
-@import './base/_fonts.scss';
-@import './base/_normalize.scss';
-@import './base/_reset.scss';
+@import './constants/colors';
+
+@import './base/fonts';
+@import './base/normalize';
+@import './base/reset';
